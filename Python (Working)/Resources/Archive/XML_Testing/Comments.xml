@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<exchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://download.autodesk.com/us/navisworks/schemas/nw-exchange-12.0.xsd" units="ft" filename="06.12.19_Wyman NWD.nwd" filepath="C:\Users\icarney\Downloads">
+  <viewpoints>
+    <view name="Buffer Prep 1313_Albireo_Move Horn and Strobe to NW corner of Room_L1_H-3.6" guid="4d4d1911-92c9-497b-8082-9fd00b946d93">
+      <viewpoint tool="none" render="shaded" lighting="headlight" linear="577.6510958971" angular="0.7853981634">
+        <camera projection="persp" near="0.1000000015" far="2941.1862879918" aspect="0.9437428243" height="0.8624723077">
+          <position>
+            <pos3f x="10800.6242397088" y="8770.6892649598" z="6.9094599649"/>
+          </position>
+          <rotation>
+            <quaternion a="-0.6541130118" b="-0.2642477094" c="-0.2654710038" d="-0.6571411279"/>
+          </rotation>
+        </camera>
+        <viewer radius="0.9842519685" height="5.9055118110" actual_height="5.9055118110" eye_height="0.4921259843" avatar="construction_worker" camera_mode="first" first_to_third_angle="0.0000000000" first_to_third_distance="9.8425196850" first_to_third_param="1.0000000000" first_to_third_correction="1" collision_detection="0" auto_crouch="0" gravity="0" gravity_value="32.1522309711" terminal_velocity="164.0419947507"/>
+        <up>
+          <vec3f x="0.0000000000" y="0.0000000000" z="1.0000000000"/>
+        </up>
+      </viewpoint>
+      <clipplaneset linked="0" current="0" mode="planes" enabled="1">
+        <range>
+          <box3f>
+            <min>
+              <pos3f x="1.0000000000" y="1.0000000000" z="1.0000000000"/>
+            </min>
+            <max>
+              <pos3f x="0.0000000000" y="0.0000000000" z="0.0000000000"/>
+            </max>
+          </box3f>
+        </range>
+        <clipplanes>
+          <clipplane state="default" distance="0.0000000000" alignment="top">
+            <plane distance="-2.7020774173">
+              <vec3f x="-0.0000000000" y="0.0000000000" z="-1.0000000000"/>
+            </plane>
+          </clipplane>
+          <clipplane state="default" distance="0.0000000000" alignment="bottom">
+            <plane distance="-10825.6896788877">
+              <vec3f x="-1.0000000000" y="-0.0000000000" z="-0.0000000000"/>
+            </plane>
+          </clipplane>
+          <clipplane state="default" distance="0.0000000000" alignment="front">
+            <plane distance="8728.9573923784">
+              <vec3f x="-0.0000000000" y="1.0000000000" z="0.0000000000"/>
+            </plane>
+          </clipplane>
+          <clipplane state="default" distance="0.0000000000" alignment="back">
+            <plane distance="-8802.3825389683">
+              <vec3f x="-0.0000000000" y="-1.0000000000" z="-0.0000000000"/>
+            </plane>
+          </clipplane>
+          <clipplane state="default" distance="0.0000000000" alignment="left">
+            <plane distance="10667.2405983560">
+              <vec3f x="1.0000000000" y="0.0000000000" z="0.0000000000"/>
+            </plane>
+          </clipplane>
+          <clipplane state="default" distance="0.0000000000" alignment="right">
+            <plane distance="-10128.3771519363">
+              <vec3f x="-1.0000000000" y="0.0000000000" z="0.0000000000"/>
+            </plane>
+          </clipplane>
+        </clipplanes>
+        <box>
+          <box3f>
+            <min>
+              <pos3f x="1.0000000000" y="1.0000000000" z="1.0000000000"/>
+            </min>
+            <max>
+              <pos3f x="0.0000000000" y="0.0000000000" z="0.0000000000"/>
+            </max>
+          </box3f>
+        </box>
+        <box-rotation>
+          <rotation>
+            <quaternion a="0.7071067812" b="0.0000000000" c="0.0000000000" d="0.7071067812"/>
+          </rotation>
+        </box-rotation>
+      </clipplaneset>
+      <comments>
+        <comment id="3" status="new">
+          <user>ICarney</user>
+          <body>This is a test</body>
+          <createddate>
+            <date year="2019" month="6" day="21" hour="13" minute="35" second="14"/>
+          </createddate>
+        </comment>
+        <comment id="4" status="resolved">
+          <user>ICarney</user>
+          <body>So is this</body>
+          <createddate>
+            <date year="2019" month="6" day="21" hour="13" minute="35" second="29"/>
+          </createddate>
+        </comment>
+      </comments>
+      <redlines world3d="0">
+        <rlcloud thickness="3" pattern="65535" world3d="0">
+          <colour red="0.0000000000" green="1.0000000000" blue="1.0000000000"/>
+          <points>
+            <pos2f x="-0.1468574198" y="0.1431595711"/>
+            <pos2f x="-0.2141230485" y="0.1253746797"/>
+            <pos2f x="-0.2123621682" y="0.1949294529"/>
+            <pos2f x="-0.2223991861" y="0.2695907790"/>
+            <pos2f x="-0.1479139480" y="0.2583211449"/>
+            <pos2f x="-0.0089804897" y="0.3423151367"/>
+            <pos2f x="0.0327523742" y="0.1854206991"/>
+            <pos2f x="0.1142811336" y="0.1517878847"/>
+            <pos2f x="0.0591655792" y="0.0829374637"/>
+            <pos2f x="0.0494807374" y="0.0010565282"/>
+            <pos2f x="-0.0264132050" y="0.0332806383"/>
+            <pos2f x="-0.0575807869" y="-0.0214827401"/>
+            <pos2f x="-0.1014267072" y="0.0237718845"/>
+            <pos2f x="-0.1500270044" y="-0.0014087043"/>
+            <pos2f x="-0.1605922864" y="0.0522981459"/>
+            <pos2f x="-0.2113056400" y="0.0727243578"/>
+            <pos2f x="-0.1774967376" y="0.1156898379"/>
+            <pos2f x="-0.1804902341" y="0.1498509163"/>
+            <pos2f x="-0.1468574198" y="0.1431595711"/>
+            <pos2f x="-0.1468574198" y="0.1431595711"/>
+          </points>
+        </rlcloud>
+      </redlines>
+    </view>
+    <view name="Solution Hold 1320_Albireo_AE-RM1320-002 - AE-RM1320-001 - Move next to HMI_L1_H-1.9" guid="0ca8bfd6-5ded-4dab-861f-cb5647f732f0">
+      <viewpoint tool="none" render="shaded" lighting="headlight" linear="577.6510958971" angular="0.7853981634">
+        <camera projection="persp" near="0.1000000015" far="445.6228029695" aspect="0.9437428243" height="1.1787986675">
+          <position>
+            <pos3f x="10862.9336792976" y="8778.1332423256" z="6.3279051822"/>
+          </position>
+          <rotation>
+            <quaternion a="-0.3805346843" b="0.4728155919" c="0.6191405122" d="-0.4983009093"/>
+          </rotation>
+        </camera>
+        <viewer radius="0.9842519685" height="5.9055118110" actual_height="5.9055118110" eye_height="0.4921259843" avatar="construction_worker" camera_mode="first" first_to_third_angle="0.0000000000" first_to_third_distance="9.8425196850" first_to_third_param="1.0000000000" first_to_third_correction="1" collision_detection="0" auto_crouch="0" gravity="0" gravity_value="32.1522309711" terminal_velocity="164.0419947507"/>
+        <up>
+          <vec3f x="0.0000000000" y="0.0000000000" z="1.0000000000"/>
+        </up>
+      </viewpoint>
+      <clipplaneset linked="0" current="4" mode="planes" enabled="1">
+        <range>
+          <box3f>
+            <min>
+              <pos3f x="1.0000000000" y="1.0000000000" z="1.0000000000"/>
+            </min>
+            <max>
+              <pos3f x="0.0000000000" y="0.0000000000" z="0.0000000000"/>
+            </max>
+          </box3f>
+        </range>
+        <clipplanes>
+          <clipplane state="default" distance="0.0000000000" alignment="top">
+            <plane distance="-5.2797129390">
+              <vec3f x="-0.0000000000" y="0.0000000000" z="-1.0000000000"/>
+            </plane>
+          </clipplane>
+          <clipplane state="default" distance="0.0000000000" alignment="bottom">
+            <plane distance="-10825.6896788877">
+              <vec3f x="-1.0000000000" y="-0.0000000000" z="-0.0000000000"/>
+            </plane>
+          </clipplane>
+          <clipplane state="default" distance="0.0000000000" alignment="front">
+            <plane distance="8728.9573923784">
+              <vec3f x="-0.0000000000" y="1.0000000000" z="0.0000000000"/>
+            </plane>
+          </clipplane>
+          <clipplane state="default" distance="0.0000000000" alignment="back">
+            <plane distance="-8802.3825389683">
+              <vec3f x="-0.0000000000" y="-1.0000000000" z="-0.0000000000"/>
+            </plane>
+          </clipplane>
+          <clipplane state="enabled" distance="0.0000000000" alignment="left">
+            <plane distance="10891.7281370943">
+              <vec3f x="1.0000000000" y="0.0000000000" z="0.0000000000"/>
+            </plane>
+          </clipplane>
+          <clipplane state="default" distance="0.0000000000" alignment="right">
+            <plane distance="-10128.3771519363">
+              <vec3f x="-1.0000000000" y="0.0000000000" z="0.0000000000"/>
+            </plane>
+          </clipplane>
+        </clipplanes>
+        <box>
+          <box3f>
+            <min>
+              <pos3f x="1.0000000000" y="1.0000000000" z="1.0000000000"/>
+            </min>
+            <max>
+              <pos3f x="0.0000000000" y="0.0000000000" z="0.0000000000"/>
+            </max>
+          </box3f>
+        </box>
+        <box-rotation>
+          <rotation>
+            <quaternion a="0.7071067812" b="0.0000000000" c="0.0000000000" d="0.7071067812"/>
+          </rotation>
+        </box-rotation>
+      </clipplaneset>
+      <comments>
+        <comment id="1" status="active">
+          <user>ICarney</user>
+          <body>Move this</body>
+          <createddate>
+            <date year="2019" month="5" day="11" hour="2" minute="26" second="47"/>
+          </createddate>
+        </comment>
+        <comment id="2" status="new">
+          <user>ICarney</user>
+          <body>do that</body>
+          <createddate>
+            <date year="2019" month="5" day="11" hour="2" minute="26" second="54"/>
+          </createddate>
+        </comment>
+      </comments>
+      <redlines world3d="0">
+        <rlcloud thickness="3" pattern="65535" world3d="0">
+          <colour red="0.0000000000" green="1.0000000000" blue="1.0000000000"/>
+          <points>
+            <pos2f x="0.3761838844" y="0.2495097192"/>
+            <pos2f x="0.4145699950" y="0.2878958299"/>
+            <pos2f x="0.4406725502" y="0.2402970527"/>
+            <pos2f x="0.4752200498" y="0.2351789046"/>
+            <pos2f x="0.4606333278" y="0.2034463864"/>
+            <pos2f x="0.4839209016" y="0.1747847572"/>
+            <pos2f x="0.4498852168" y="0.1604539425"/>
+            <pos2f x="0.4332512355" y="0.1169496838"/>
+            <pos2f x="0.3961446619" y="0.1450994982"/>
+            <pos2f x="0.3523844957" y="0.1379340909"/>
+            <pos2f x="0.3577585512" y="0.1819501645"/>
+            <pos2f x="0.3219315146" y="0.2280134972"/>
+            <pos2f x="0.3761838844" y="0.2495097192"/>
+            <pos2f x="0.3761838844" y="0.2495097192"/>
+          </points>
+        </rlcloud>
+        <rlarrow thickness="3" pattern="65535" world3d="0">
+          <colour red="0.0000000000" green="1.0000000000" blue="1.0000000000"/>
+          <start>
+            <pos2f x="0.3884674398" y="0.2111236086"/>
+          </start>
+          <end>
+            <pos2f x="-0.1888596644" y="0.1911628310"/>
+          </end>
+        </rlarrow>
+        <rlline thickness="3" pattern="65535" world3d="0">
+          <colour red="0.0000000000" green="1.0000000000" blue="1.0000000000"/>
+          <start>
+            <pos2f x="-0.2211039973" y="0.2356907194"/>
+          </start>
+          <end>
+            <pos2f x="-0.2149622196" y="0.1558476092"/>
+          </end>
+        </rlline>
+      </redlines>
+    </view>
+  </viewpoints>
+</exchange>

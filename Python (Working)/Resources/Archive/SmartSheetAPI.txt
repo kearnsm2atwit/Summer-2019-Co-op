@@ -1,0 +1,5 @@
+API_Token: wmo1vbwmgpmw229kkh1ygqqhcn
+
+SheetID: 7780263582295940
+
+Path: C:\Users\kearnsm2\Desktop\FileToUpload
